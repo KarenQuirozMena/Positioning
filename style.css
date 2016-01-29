@@ -1,0 +1,31 @@
+body{margin: 0px;
+	padding: 0px;
+}
+
+div {width: 200px;
+	height: 200px;
+}
+.rojo{
+	background-color: red;
+	position: absolute;
+	left: 0px;
+	top: 0px
+}
+.azul{
+	background-color:blue;
+	position: absolute;
+	right: 0px;
+	top:0;
+}
+.amarillo{
+	background-color: yellow;
+	position: absolute;
+	right: 0px;
+	bottom: 0px;
+}
+.verde{
+	background-color: green;
+	position: absolute;
+	left: 0px;
+	bottom: 0px;
+}
