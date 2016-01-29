@@ -7,25 +7,16 @@ div {width: 200px;
 }
 .rojo{
 	background-color: red;
-	position: absolute;
-	left: 0px;
-	top: 0px
+	position: static;
+	left: 50px;
 }
 .azul{
 	background-color:blue;
-	position: absolute;
-	right: 0px;
-	top:0;
+	position: relative;
+	left: 200px;
 }
 .amarillo{
 	background-color: yellow;
-	position: absolute;
-	right: 0px;
-	bottom: 0px;
-}
-.verde{
-	background-color: green;
-	position: absolute;
-	left: 0px;
-	bottom: 0px;
+	position: static;
+	left: 50px;
 }
